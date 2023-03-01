@@ -91,7 +91,7 @@ const ItemIsotope = () => {
               data-text="Video"
             >
               <input type="radio" name="fl_radio" defaultValue=".f-video" />
-              Video
+              
             </label>
           </div>
           <div className="btn-group">

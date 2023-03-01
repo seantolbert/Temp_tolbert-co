@@ -17,7 +17,7 @@ const About = () => {
           <div className="info-list">
             <ul>
               <li>
-                <strong>Age:</strong> 24
+                <strong>Age:</strong> 29
               </li>
               <li>
                 <strong>Residence:</strong> USA
@@ -26,13 +26,13 @@ const About = () => {
                 <strong>Freelance:</strong> Available
               </li>
               <li>
-                <strong>Address:</strong> San Francisco
+                <strong>Address:</strong> Washington, DC
               </li>
               <li>
-                <strong>Phone:</strong> +1 256 254 84 56
+                <strong>Phone:</strong> 240.429.9523
               </li>
               <li>
-                <strong>E-mail:</strong> alejandroa@gmail.com
+                <strong>E-mail:</strong> sean@tolbert.me
               </li>
             </ul>
           </div>
