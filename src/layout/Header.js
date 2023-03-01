@@ -22,7 +22,7 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="#section-started">
                 <a>
-                  <span>Home</span>
+                  <span className="mask-lnk">Home</span>
                   <span className="mask-lnk mask-lnk-hover">Home</span>
                 </a>
               </Link>
@@ -30,7 +30,7 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="/resume">
                 <a>
-                  <span>Resume</span>
+                  <span className="mask-lnk">Resume</span>
                   <span className="mask-lnk mask-lnk-hover">Resume</span>
                 </a>
               </Link>
@@ -38,7 +38,7 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="#works">
                 <a>
-                  <span>Works</span>
+                  <span className="mask-lnk">Works</span>
                   <span className="mask-lnk mask-lnk-hover">Works</span>
                 </a>
               </Link>
@@ -47,7 +47,7 @@ const Menu = () => (
             <li className="menu-item menu-item-has-children">
               <Link href="#contact">
                 <a>
-                  <span>Contact</span>
+                  <span className="mask-lnk">Contact</span>
                   <span className="mask-lnk mask-lnk-hover">Contact</span>
                 </a>
               </Link>
